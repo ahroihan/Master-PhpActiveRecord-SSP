@@ -28,4 +28,4 @@ Get your Premium code available at https://codecanyon.net/user/ahroihan
 Used a modified version of Master-PhpActiveRecord-SSP library, available at https://github.com/ahroihan/Master-PhpActiveRecord-SSP
 
 
-    ![alt text](https://webiot.id/iot.png)
+![alt text](https://webiot.id/iot.png)
