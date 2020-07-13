@@ -19,7 +19,7 @@ CodeIgniter - php script for phpactiverecord and SSP in dataTables
 
 - see the dataTables working
 
-    ![alt text](https://webiot.id/ssp.png)
+    ![Preview of the interface](https://webiot.id/ssp1.png)
 
 
 ### Credits ###
