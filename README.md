@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="pIAYX7AWJdlxIwKmjkc3j0MYxolZjY0Y7YocyXTU9zA" />
 # Master-PhpActiveRecord-SSP
 CodeIgniter - php script for phpactiverecord and SSP in dataTables
 
