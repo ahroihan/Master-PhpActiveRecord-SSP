@@ -1,5 +1,6 @@
 # Master-PhpActiveRecord-SSP
 CodeIgniter - php script for phpactiverecord and SSP in dataTables
+
 Master Create Read Update Delete
 
 - Create a database
