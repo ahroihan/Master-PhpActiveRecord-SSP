@@ -11,7 +11,7 @@
   </head>
   <body>
     <?php
-      echo '<img src="https://webiot.id/ssp1.png" alt="Image" style="display: block;margin: 0 auto;max-height: 100%;max-width: 100%;width: 100%;" />';
+      echo '<img src="https://webiot.id/process.png" alt="Image" style="display: block;margin: 0 auto;max-height: 100%;max-width: 100%;width: 100%;" />';
     ?>
   </body>
 </html>
