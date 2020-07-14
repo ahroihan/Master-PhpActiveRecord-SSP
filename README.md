@@ -27,7 +27,7 @@ Master Create Read Update Delete
 
 
 ### Credits ###
-Get your Premium code available at https://codecanyon.net/user/ahroihan
+Get your Premium code available at https://webiot.id/ssp
 
 Used a modified version of Master-PhpActiveRecord-SSP library, available at https://github.com/ahroihan/Master-PhpActiveRecord-SSP
 
